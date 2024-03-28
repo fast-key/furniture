@@ -1,0 +1,20 @@
+#test{
+    height:50vh;
+}
+
+#font{
+    @media(max-width:375px)
+    {
+        font-size:2rem;
+    }
+}
+
+
+
+@media(min-width:2560px)
+{
+    .testfont{
+        font-size:3rem;
+    }
+ 
+}
